@@ -10,8 +10,8 @@ export const  Greeting = () => {
 
   const Delet = ()=>{
     setName('');
-  }
-
+  
+//  Nado budet eshe povtorit
 
 
   return (
